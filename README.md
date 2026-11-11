@@ -6,4 +6,4 @@ Preview locally: `python3 -m http.server 8000` and open http://localhost:8000
 
 Publish: push to GitHub, then Settings → Pages → Deploy from branch → `main` / root.
 
-The Rubik font in `assets/` is under the SIL Open Font License.
+The Titillium Web font in `assets/` is under the SIL Open Font License (`assets/OFL-TitilliumWeb.txt`).
