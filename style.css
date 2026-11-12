@@ -233,6 +233,23 @@ footer {
 
 footer p { margin: 0; }
 
+.legal { padding-top: 40px; }
+
+.legal h1 { font-size: clamp(30px, 5vw, 46px); }
+
+.legal h2 { margin-top: 36px; font-size: 24px; }
+
+.legal p,
+.legal ul { max-width: 44em; color: var(--dim); }
+
+.legal li { margin-bottom: 6px; }
+
+.legal li::marker { color: var(--molten); }
+
+.legal a { color: var(--molten); }
+
+.legal .updated { font-size: 16px; }
+
 @media (max-width: 860px) {
   .game { grid-template-columns: 1fr; padding: 20px; }
   .hero { padding: 44px 0 32px; }
