@@ -1,4 +1,4 @@
-# MVP Games website
+# Nama Forge website
 
 Static site for GitHub Pages: plain HTML and CSS, no build step.
 
